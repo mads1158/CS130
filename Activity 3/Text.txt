@@ -1,0 +1,20 @@
+Salary
+1) First ask for years the employee has been there
+2) Next ask for how many children the employee has
+3) Next ask if the employee has a spouse
+4) First calculation is to store 30 * years worked for the company
+5) Next calculation is to store 100 * number of children they have
+6) Next calculation is to check if the employee has a spouse
+7) Final calculation is to sum 500 and all previous calculations
+8) Then we can output the salary for the employee
+
+Grade
+1) first ask for the grade and weight on each assignment in pairs
+2) Then multiply each grade by it's associated weight and sum them all together
+3) Then report back to the user with the calculated grade
+
+(BOUNS) Catering
+1)first ask how many of each bakery item they would like
+2)Then we can use a clever formula to calculate the total of each ingredient
+- Having the form of (# of Cheesecakes)*(# of this ingredient required for a single item) + (# of cakes)*(# of this ingredient required for a single item) + (# of cupcakes)*(# of this ingredient required for a single item)
+3) Then as we process that for each ingredient, then we can print the amount of each ingredient we need to order
